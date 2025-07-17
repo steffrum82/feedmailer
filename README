@@ -1,4 +1,5 @@
 Feedmailer - A Feed-Aggregator (RSS/Atom to email gateway)
+Topics: atom rss feedreader feed-aggregator feed-aggregator-daemon feedmailer
 
 Feed aggregator that queries RSS/Atom feeds and delivers new articles by
 email.  Using the Sendmail-Commandline-Interface and optional a Cronjob.
