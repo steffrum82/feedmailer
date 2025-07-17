@@ -1,0 +1,50 @@
+# AUSLANDRUNDFUNK
+
+#
+# Europa
+#
+
+# Deutschland Deutsche Welle
+https://www.dw.de
+https://www.dw.com
+# England (BBC)
+https://www.bbc.com
+https://www.bbcearth.com
+# Euronews
+https://www.euronews.de
+https://www.euronews.com
+
+#
+# Amerika
+#
+
+#
+# USA
+#
+
+# Voice of America VoA
+https://www.voanews.com
+# The Associated Press (AP) and AP News
+https://www.ap.org
+https://apnews.com
+
+#
+# China
+#
+
+https://www.cgtn.com
+https://german.cri.cn
+
+#
+# Russland
+#
+
+https://sputnikglobe.com
+# RT (Russia Today)
+https://www.rt.com
+
+#
+# United Nations (UN)
+#
+
+https://www.unmultimedia.org

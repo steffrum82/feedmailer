@@ -1,0 +1,18 @@
+# CRYPTO
+
+# PGP
+https://www.openpgp.org
+https://www.openpgp.org/feed.xml
+# The GNU Privacy Guard
+https://gnupg.org
+https://gnupg.org/blog/index.html
+
+# Bitcoin
+https://bitcoin.org/en/blog
+
+# Ethreum
+https://ethereum.org
+
+# Monero
+https://www.getmonero.org/
+https://www.getmonero.org/de/blog
